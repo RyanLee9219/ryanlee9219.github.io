@@ -1,0 +1,28 @@
+.banner{
+    background-color: burlywood;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#small-gritty{
+    height: 100px;
+    width: 100px;
+}
+
+#gritter{
+    color: darkcyan;
+    font-size: 100px;
+    
+}
+.bold{
+    font-weight: 900;
+    font-family: fantasy;
+}
+.fun{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: fantasy;
+}
